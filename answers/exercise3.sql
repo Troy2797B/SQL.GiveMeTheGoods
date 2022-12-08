@@ -1,0 +1,2 @@
+//TEST IN SQL AFTER ADDING ROWS
+SELECT * FROM Students WHERE City LIKE 'A%'  OR City LIKE 'B%' OR City LIKE 'C%' OR City LIKE 'D%'  OR City LIKE 'E%' OR City LIKE 'F%';
